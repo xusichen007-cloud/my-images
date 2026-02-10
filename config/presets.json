@@ -53,5 +53,15 @@
     "variety": false,
     "suffix": "{artist:ratatatat74}, detailed, high quality, {{{glistening skin}}}, {{sweat}}, {wet skin}, {oily skin}, {detailed skin}, [skin texture], {{dramatic lighting}}, {{high contrast}}, {volumetric light}, {rim lighting}, {warm lighting}, soft shading, {detailed background}",
     "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, flat lighting, flat shading, cel shading, simple shading, dry skin, matte skin, soft lighting, overexposed, washed out, sketch, lineart, outline"
+  },
+  "c_1770748999471": {
+    "name": "前戏",
+    "suffix": "masterpiece, best quality, close-up, photorealistic,  \n1girl kneeling, giving oral foreplay, licking shaft, tongue on tip, saliva strings from mouth to penis, drool dripping, lipstick smudges,  \nblack thighhigh stockings, disheveled red lingerie, breasts out, hand stroking,  \nsweaty cleavage, flushed cheeks, aroused eyes looking up, bedroom dim light, erotic tension",
+    "neg": "worst quality, low quality, normal quality, lowres, blurry, jpeg artifacts, signature, watermark, text, username, error, cropped, deformed, ugly, mutilated, disfigured, bad anatomy, bad proportions, extra limbs, extra fingers, missing fingers, fused fingers, too many fingers, long neck, mutated hands, poorly drawn hands, poorly drawn face, bad face, malformed limbs, gross proportions, duplicate, morbid, out of frame, extra arms, extra legs, disconnected limbs, floating limbs",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 6,
+    "smea": false,
+    "variety": false
   }
 }
